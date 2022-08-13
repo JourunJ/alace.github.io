@@ -8,4 +8,3 @@
 + ZweiRm
 + vuepress-theme-hope
 + vuepress
-+[![部署文档](https://github.com/JourunJ/alace.github.io/actions/workflows/deploy-docs.yml/badge.svg)](https://github.com/JourunJ/alace.github.io/actions/workflows/deploy-docs.yml)
